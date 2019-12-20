@@ -87,8 +87,8 @@ namespace AI
                 _sr.BaseStream.Seek(0, SeekOrigin.Begin);
                 _current = null;
             }
-            private bool disposedValue = false;
-            private void Dispose()
+            //private bool disposedValue = false;
+            //private void Dispose()
         }
 
 
